@@ -52,7 +52,7 @@ With regular expressions I can identify the # character and save all the words t
   Accuracy with Naive-bayes:  0.9408055329536208
 ```
 ### Using Twitter API
-API configuration and functions to convert gathered data to a dataframe is found in the second script [TweetSense_API](TweetSense_API.ipynb)##
+API configuration and functions to convert gathered data to a dataframe is found in the second script [TweetSense_API](TweetSense_API.ipynb).
 
 ### Twitter query
 In this case the query is set to find 'racism' related tweets, this query will return a json with the information we want to analyse and will be transformed into a Dataframe.
